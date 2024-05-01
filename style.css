@@ -3,3 +3,11 @@
     padding: 0px;
     box-sizing: border-box;
 }
+header a{
+    text-decoration: none;
+    color: white;
+}
+.mt-2 a{
+    text-decoration: none;
+    color: white; 
+}
